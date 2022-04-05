@@ -48,7 +48,4 @@ OCTUBRE - 2021
 -Streamlit
 -Geophires v2
 
-# Información y Preguntas
 
-- 💻  Correo: carlosv0410@hotmail.com
-- 📱   Whatssapp +593998040820
